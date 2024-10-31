@@ -1,5 +1,4 @@
-#!/usr/bin/env python3.5
-
+#!/usr/bin/env python
 
 import os
 import curses
